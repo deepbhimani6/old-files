@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'The Nautigal';
+    src: url('TheNautigal-Bold.eot');
+    src: url('TheNautigal-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TheNautigal-Bold.woff2') format('woff2'),
+        url('TheNautigal-Bold.woff') format('woff'),
+        url('TheNautigal-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'The Nautigal';
+    src: url('TheNautigal-Regular.eot');
+    src: url('TheNautigal-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TheNautigal-Regular.woff2') format('woff2'),
+        url('TheNautigal-Regular.woff') format('woff'),
+        url('TheNautigal-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
